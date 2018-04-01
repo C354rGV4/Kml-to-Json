@@ -1,3 +1,6 @@
+//  Created by Cesar guillermo vazquez alvarez on 03/31/18.
+//  Copyright © 2018 C354rGV4. All rights reserved.
+//
 #include <iostream>
 #include <fstream>
 using namespace std;
